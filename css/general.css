@@ -1,0 +1,39 @@
+﻿/* Raleway: "Raleway", sans-serif; */
+/* Muli: "Mulish", sans-serif; */
+@import url('../css2');
+/* All */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Root */
+:root {
+    font-family:  "Mulish", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+}
+/* Link */
+a {
+    text-decoration: none;
+    color: inherit;
+}
+/* container */
+.container {
+    width: 80%;
+    margin: 0 auto;
+
+}
+/* Heiding */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+}
+/* primary btn */
+.primary-btn {
+    border-radius: 30px;
+    text-transform: capitalize;
+    color: #fff;
+    background-color: #6785ff;
+    padding: 16px 40px;
+}

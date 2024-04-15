@@ -1,0 +1,124 @@
+Uri: https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpYCP.ttf
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaooCP.ttf
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapYCP.ttf
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpYCP.ttf
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEooCP.ttf
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao4CP.ttf
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao4CP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoooCP.ttf
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLPrQ.ttf
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\s\raleway\v29\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLPrQ.ttf
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\s\raleway\v29\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLPrQ.ttf
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\s\raleway\v29\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMPrQ.ttf
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\s\raleway\v29\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMPrQ.ttf
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\s\raleway\v29\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMPrQ.ttf
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\s\raleway\v29\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMPrQ.ttf
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\s\raleway\v29\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNPrQ.ttf
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\s\raleway\v29\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LPrQ.ttf
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\s\raleway\v29\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\boxicons@2.1.4\css\boxicons.min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/boxicons@2.1.4/fonts/boxicons.eot
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\boxicons@2.1.4\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://unpkg.com/boxicons@2.1.4/fonts/boxicons.svg?
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\boxicons@2.1.4\fonts\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://unpkg.com/boxicons@2.1.4/fonts/boxicons.ttf
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\boxicons@2.1.4\fonts\boxicons.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/boxicons@2.1.4/fonts/boxicons.woff
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\boxicons@2.1.4\fonts\boxicons.woff
+Content Type: font/woff
+
+Uri: https://unpkg.com/boxicons@2.1.4/fonts/boxicons.woff2
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\boxicons@2.1.4\fonts\boxicons.woff2
+Content Type: font/woff2
+
+Uri: https://willowy-strudel-bee7e0.netlify.app/
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://willowy-strudel-bee7e0.netlify.app/css/component.css
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\css\component.css
+Content Type: text/css
+
+Uri: https://willowy-strudel-bee7e0.netlify.app/css/general.css
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\css\general.css
+Content Type: text/css
+
+Uri: https://willowy-strudel-bee7e0.netlify.app/img/call.png.webp
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\img\call.png.webp
+Content Type: image/webp
+
+Uri: https://willowy-strudel-bee7e0.netlify.app/img/h1_hero.png.webp
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\img\h1_hero.png.webp
+Content Type: image/webp
+
+Uri: https://willowy-strudel-bee7e0.netlify.app/img/logo.png.webp
+File Name: C:\Users\alfatech.uz\Desktop\willowy-strudel-bee7e0.netlify.app\img\logo.png.webp
+Content Type: image/webp
+
